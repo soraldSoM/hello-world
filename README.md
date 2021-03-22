@@ -1,2 +1,6 @@
 # hello-world
-Just a newcomer that want to find some smarter way to use on work
+
+Hello There!
+
+This is a guy who works as a technician for the most of time. And now he wants to learn somethings.
+Hope can help him work eaisly and have more time to spend.
